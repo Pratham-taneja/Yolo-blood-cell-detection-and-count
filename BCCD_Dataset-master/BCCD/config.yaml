@@ -1,0 +1,10 @@
+
+path: D:\Coding\ML\MLCourseCodes\MLProjects\YOLOV8BCCD\BCCD_Dataset-master\BCCD\
+train: images/train
+val: images/train
+
+
+names:
+  0: RBC
+  1: WBC
+  2: Platelets
